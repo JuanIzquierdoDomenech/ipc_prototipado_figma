@@ -4,6 +4,7 @@
 
 * [Flaticon](https://www.flaticon.com)
 * [Iconfinder](https://www.iconfinder.com)
+* [Icomoon](https://icomoon.io/)
 * Figma Community -> Icons ([link](https://www.figma.com/community/icons))
 
 ![Iconfinder](../.gitbook/assets/iconfinder.png)
